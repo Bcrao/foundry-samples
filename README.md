@@ -35,9 +35,9 @@ To run samples locally, you'll need to install the required tools for the langua
 - **C# samples**: .NET 9.0 SDK
 - **Java samples**: JDK 17+ and Maven
 
-Then follow the setup instructions in the [contributing guidelines].
+Then follow the setup instructions in the [contributing guidelines](CONTRIBUTING.md).
 
 ## Contributing
 
-We welcome contributions and suggestions! Please see the [contributing guidelines] for details.
+We welcome contributions and suggestions! Please see the [contributing guidelines](CONTRIBUTING.md) for details.
 
