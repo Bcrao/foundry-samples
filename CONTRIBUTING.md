@@ -38,6 +38,20 @@ Help us keep this project open and inclusive. Please read and follow our [Code o
 
 #### Set up your development environment (one time setup)
 
+You have two options for setting up your development environment:
+
+**Option A: GitHub Codespaces (Recommended for Quick Start)**
+
+GitHub Codespaces provides a pre-configured cloud development environment with all tools installed:
+
+1. [Make a fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) of this repository
+2. Open your fork in GitHub Codespaces by clicking **Code** → **Codespaces** → **Create codespace**
+3. Wait for the codespace to initialize (pre-commit hooks will be automatically configured)
+
+That's it! You can skip to [Write your contribution](#write-your-contribution).
+
+**Option B: Local Development**
+
 ##### 1. Make a fork
 
 This repository follows a fork-based workflow. You should make your changes on your own fork, and make a PR to
